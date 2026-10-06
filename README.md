@@ -181,10 +181,4 @@ O conhecimento desenvolvido aqui será utilizado como base para **futuros projet
 > **Este projeto está finalizado como objeto de estudo.**  
 > O objetivo não é continuar expandindo esta aplicação, mas levar os conceitos aprendidos para projetos posteriores.
 
-## 👨‍💻 Autor
 
-**Yuri Adão**
-
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e construção de aplicações utilizando JavaScript, React e tecnologias relacionadas.
-
-- GitHub: https://github.com/yuriadaao
